@@ -1,4 +1,4 @@
-![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/personal_portfolio)
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/portfolio_resume)
 ![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
 
 
