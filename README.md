@@ -20,7 +20,7 @@ My online portfolio resume that showcases my projects, work experiences and educ
 The aim of this project was to build an online resume that showcases my work experience, projects and education that I can share with potential employers
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/personal_portfolio/blob/main/personal_portfolio_js.png)
+![Sample image](https://github.com/wemiibidun/portfolio_resume/blob/main/portfolio_resume.png)
 
 ## Technologies (Language, Library and Framework)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,7 +40,7 @@ The GUI of this project allows users to:
 
 ## Link to Published Portfolio
 
-[personal_porfolio_webpage](https://wemiibidun.github.io/personal_portfolio/)
+[personal_porfolio_webpage](https://wemiibidun.github.io/portfolio_resume/)
 
 ## Status
 Project is: _Complete_
