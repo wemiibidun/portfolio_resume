@@ -363,7 +363,7 @@ header .navbar ul li a:hover{
     margin-bottom: 0.5rem;
   }
   
-  .portfolio .box-container .project-card {
+  .project-card {
     background-color: #fff;
     border-radius: 12px;
     box-shadow: 0 3px 10px var(--yellow);
