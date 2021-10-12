@@ -40,7 +40,7 @@ The GUI of this project allows users to:
 
 ## Link to Published Portfolio
 
-[personal_porfolio_webpage](https://wemiibidun.github.io/portfolio_resume/)
+[porfolio_resume_webpage](https://wemiibidun.github.io/portfolio_resume/)
 
 ## Status
 Project is: _Complete_
