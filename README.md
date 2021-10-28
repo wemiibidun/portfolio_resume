@@ -1,6 +1,6 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/portfolio_resume)
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 ![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/portfolio_resume)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
 
 # Portfolio Resume
