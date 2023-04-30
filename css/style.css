@@ -304,7 +304,7 @@ header .navbar ul li a:hover{
 
 }
 
-.volunteer .box-container{
+.volunteering .box-container{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -313,7 +313,7 @@ header .navbar ul li a:hover{
     padding-left: 2.5rem;
 }
 
-.volunteer .box-container .box{
+.volunteering .box-container .box{
     width:47rem;
     margin: 5rem 1rem;
     padding-left: 6rem;
@@ -321,7 +321,7 @@ header .navbar ul li a:hover{
     position: relative;
 }
 
-.volunteer .box-container .box span{
+.volunteering .box-container .box span{
     font-size: 1.3rem;
     background: #222;
     color: #fff;
@@ -330,26 +330,26 @@ header .navbar ul li a:hover{
 }
 
 
-.volunteer .box-container .box h3{
+.volunteering .box-container .box h3{
     font-size: 2rem;
     color: #fff;
     padding-top: 1.5rem;
 }
 
-.volunteer .box-container .box p{
+.volunteering .box-container .box p{
     font-size: 1.4rem;
     color: #eee;
     padding-top: 1rem 0;
 }
 
-.volunteer .box-container .box li{
+.volunteering .box-container .box li{
     font-size: 1.4rem;
     color: #eee;
     padding-top: 1rem 0;
 }
 
 
-.volunteer .box-container .box i{
+.volunteering .box-container .box i{
     position: absolute;
     top: 1.5rem;
     left: -2.5rem;
