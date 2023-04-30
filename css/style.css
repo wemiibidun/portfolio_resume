@@ -253,7 +253,7 @@ header .navbar ul li a:hover{
     padding-left: 2.5rem;
 }
 
-.education .box-container .box{
+.education .box-container .box .volunteer{
     width:47rem;
     margin: 5rem 1rem;
     padding-left: 6rem;
@@ -261,7 +261,7 @@ header .navbar ul li a:hover{
     position: relative;
 }
 
-.education .box-container .box span{
+.education .box-container .box span .volunteer{
     font-size: 1.3rem;
     background: #222;
     color: #fff;
@@ -270,26 +270,26 @@ header .navbar ul li a:hover{
 }
 
 
-.education .box-container .box h3{
+.education .box-container .box h3 .volunteer{
     font-size: 2rem;
     color: #fff;
     padding-top: 1.5rem;
 }
 
-.education .box-container .box p{
+.education .box-container .box p .volunteer{
     font-size: 1.4rem;
     color: #eee;
     padding-top: 1rem 0;
 }
 
-.education .box-container .box li{
+.education .box-container .box li .volunteer{
     font-size: 1.4rem;
     color: #eee;
     padding-top: 1rem 0;
 }
 
 
-.education .box-container .box i{
+.education .box-container .box i .volunteer{
     position: absolute;
     top: 1.5rem;
     left: -2.5rem;
