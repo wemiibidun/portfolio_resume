@@ -4,7 +4,7 @@
 
 
 # Portfolio Resume
-My online portfolio resume that showcases my projects, work experiences and education.
+My online portfolio resume showcases my projects, work experiences and education.
 
 
 ## Table of contents
@@ -18,12 +18,12 @@ My online portfolio resume that showcases my projects, work experiences and educ
 
 
 ## Introduction
-The aim of this project was to build an online resume that showcases my work experience, projects and education that I can share with potential employers
+This project aimed to build an online resume that showcases my work experience, projects and education that I can share with potential employers
 
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/portfolio_resume/blob/main/portfolio_resume.png)
 
-## Technologies (Language, Library and Framework)
+## Technologies (Language, Library, and Framework)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
@@ -36,7 +36,7 @@ The aim of this project was to build an online resume that showcases my work exp
 ## Features
 The GUI of this project allows users to:
 * View my work experience and Education
-* Have an insight to the skills I have
+* Have an insight into the skills I have
 * Contact me
 
 ## Link to Published Portfolio
