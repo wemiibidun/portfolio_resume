@@ -18,7 +18,7 @@ My online portfolio resume showcases my projects, work experiences and education
 
 
 ## Introduction
-This project aimed to build an online resume that showcases my work experience, projects and education that I can share with potential employers
+This project aimed to build an online resume that showcases my work experience, projects, and education that I can share with potential employers
 
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/portfolio_resume/blob/main/portfolio_resume.png)
